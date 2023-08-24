@@ -1,0 +1,74 @@
+body {
+  background-color: #111222;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-top: 150px;
+  border-style: dashed;
+  border-color: #0f77ff;
+  border-radius: 25px;
+  font-size: 35px;
+  font-family: lores-12, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: white;
+}
+h1 {
+  color:#0f77ff;
+  letter-spacing: 5px;
+  text-shadow: 3px 3px 3px white;
+  margin: 15px;
+  font-family: lores-12, sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  font-style: normal;
+  text-align: center;
+}
+h3{
+  font-size: 20px;
+  color:#0f77ff;
+  text-shadow: 1px 1px 1px white;
+}
+a {
+  text-decoration: none;
+  color: #0f77ff;
+  text-shadow: 1px 1px 1px white;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+a:hover {
+  transition: color .5s ease;
+  color: gold;
+  letter-spacing: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px black;
+  font-size: 20px;
+}
+header {
+  width:50vw;
+  height: auto;
+  margin: 50px auto 36px;
+}
+main {
+  width: 60vw;
+  height: auto;
+  margin: 35px auto;
+  display: flow-root;
+}
+.col {
+  width: 50%;
+  height: auto;
+  float:left;
+}
+ul {
+  list-style: none;
+}
+ul li::before {
+  content: "+";
+  color: gold;
+  margin: auto 5px;
+}
+
