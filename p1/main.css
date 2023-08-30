@@ -61,6 +61,7 @@ main {
 .col{
   width: 50%;
   height: auto;
+  float: left;
 }
 ul {
   list-style: none;
