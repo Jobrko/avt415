@@ -69,6 +69,11 @@ ul {
 ul li::before {
   content: "+";
   color: gold;
+  text-shadow: 1px 1px 1px black;
   margin: auto 5px;
+}
+li{
+  color: #0f77ff;
+  text-shadow: 1px 1px 1px white;
 }
 
