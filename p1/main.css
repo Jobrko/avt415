@@ -33,6 +33,7 @@ h2{
   text-shadow: 1px 1px 1px white;
 }
 a {
+  margin: 15px;
   text-decoration: none;
   color: #0f77ff;
   text-shadow: 1px 1px 1px white;
