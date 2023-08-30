@@ -54,7 +54,10 @@ main {
   margin: 35px auto;
   display: flow-root;
 }
-
+.col{
+  width: 50%;
+  height: auto;
+}
 ul {
   list-style: none;
 }
