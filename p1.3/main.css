@@ -1,0 +1,40 @@
+body {
+  background-color: #111222;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-top: 150px;
+  border-style: dashed;
+  border-color: #0f77ff;
+  border-radius: 25px;
+  font-size: 35px;
+  font-family: lores-12, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: white;
+  width: fit-content;
+}
+h1 {
+  color:#0f77ff;
+  letter-spacing: 5px;
+  text-shadow: 3px 3px 3px white;
+  margin: 15px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  text-align: center;
+}
+h3{
+  margin: 15px;
+  font-size: 25px;
+  color:#0f77ff;
+  text-shadow: 1px 1px 1px white;
+}
+span, p{
+    color: gold;
+    text-shadow: 3px 3px 3px black;
+}
+p{
+  margin: 15px;
+}
