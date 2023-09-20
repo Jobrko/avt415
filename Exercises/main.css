@@ -14,11 +14,6 @@ body{
     color: white;
     width: fit-content;
 }
-em{
-    font-weight: bold;
-    margin: 15px;
-    color: #9ea1cf;
-}
 h1 {
   color:#0f77ff;
   letter-spacing: 5px;
@@ -38,6 +33,12 @@ h3, h4{
 h4{
     font-size: 1em;
     text-shadow: none;
+}
+h5{
+    font-size: 1em;
+    font-weight: bold;
+    margin: 15px;
+    color: #9ea1cf;
 }
 p{
     margin: 25px;
