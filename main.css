@@ -31,7 +31,7 @@ h3{
   color:#0f77ff;
   text-shadow: 1px 1px 1px white;
 }
-a {
+a, li{
   text-decoration: none;
   color: #0f77ff;
   text-shadow: 1px 1px 1px white;
