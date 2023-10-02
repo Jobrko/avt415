@@ -3,9 +3,6 @@ body {
   margin-right: 300px;
   margin-left: 300px;
   margin-top: 150px;
-  border-style: dashed;
-  border-color: #0f77ff;
-  border-radius: 45px;
   font-size: 35px;
   font-family: lores-12, sans-serif;
   font-weight: 400;
@@ -14,6 +11,11 @@ body {
   line-height: 24px;
   color: white;
   width: fit-content;
+}
+.border{
+  border-style: dashed;
+  border-color: #0f77ff;
+  border-radius: 45px;
 }
 h1 {
   color:#0f77ff;
